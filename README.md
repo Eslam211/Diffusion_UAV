@@ -104,14 +104,9 @@ python baselines/DTQL/test.py --device cuda --layouts 100
 
 ## Citation
 
-If you find our codes useful, please cite our work: @misc{QH_DAC,
-                                                    title={Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks}, 
-                                                    author={Eslam Eldeeb and Hirley Alves},
-                                                    year={2026},
-                                                    eprint={2606.16331},
-                                                    archivePrefix={arXiv},
-                                                    primaryClass={cs.LG},
-                                                    url={https://arxiv.org/abs/2606.16331}, 
-                                              }
+If you find our codes useful, please cite our work:
+
+Eldeeb, Eslam, and Hirley Alves. "Diffusion Offline Reinforcement Learning for Fair and Energy-Efficient UAV-Assisted Wireless Networks." arXiv preprint arXiv:2606.16331 (2026).
+
 
 
